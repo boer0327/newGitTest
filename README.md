@@ -9,3 +9,4 @@ we are working on feature 2. it use to testing some merge things.
 "add new news page test"  
 "continue to for this feature"  
 "finished change for this file"  
+"we gonna to start releaase a new version."  
